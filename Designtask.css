@@ -1,0 +1,50 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.head{
+  text-align: center;
+  width: 100%;
+  height:250px;
+  background-color: rgb(105, 54, 3);
+  
+}
+.head h1{
+  padding-top: 90px;
+  font-size: 50px;
+}
+
+.foot{
+  height: 450px;
+  background-color: rgb(220, 173, 17);
+}
+.list{
+  display:flex;
+padding-top:10px;
+padding-left:400px;
+list-style: none;
+}
+.list li{
+  padding-left: 100px;
+  cursor: pointer;
+  color: rgba(27, 133, 13, 0.964);
+  text-decoration: solid;
+}
+.list li:hover{
+  color: red;
+}
+.parahead{
+  padding-top: 10px;
+  font-size: 28px;
+  text-decoration: solid;
+  
+}
+.info{
+  padding-left: 20px;
+  padding-top: 20px;
+  color: rgb(179, 8, 8);
+}
+.logo{
+  padding-top: 30px;
+  padding-left: 190px;
+}
